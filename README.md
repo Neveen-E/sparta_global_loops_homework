@@ -23,3 +23,4 @@ The first time you run this command you will notice all the tests report RED. Yo
  1. Complete the two extra, more difficult exercises at the bottom of the page.
  	
 # sparta_global_loops_homework
+# sparta_global_functions_loops_homework
